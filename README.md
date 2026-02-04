@@ -6,7 +6,6 @@ AI-powered question-answering system for smart agriculture using Retrieval Augme
 
 Watch the system in action: **[System Demonstration on YouTube](https://youtu.be/C_KdRnQYtls)**
 
-[![Smart Agriculture RAG Demo](https://img.youtube.com/vi/C_KdRnQYtls/maxresdefault.jpg)](https://youtu.be/C_KdRnQYtls)
 
 ---
 
